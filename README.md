@@ -1,2 +1,2 @@
 # baloti
-baloti odoo
+baloti.ch
